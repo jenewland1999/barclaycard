@@ -1,16 +1,13 @@
-<div class="container-fluid mx-0 px-0" style="">
-  <div class="row  mx-0 px-0">
+<div class="container-fluid mx-0 px-0">
+  <div class="row mx-0 px-0">
     <div class="col-12  mx-0 px-0">
-      <section
-        class="cta"
-        style="display: flex; align-items: center; position:absolute;top:50%; transform: translateY(-50%); left:4rem; z-index:9999; box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12); background-color: #ffffff; padding: 2rem; border-radius: 0.3rem; max-width:40rem;"
-      >
-        <figure class="cta__logo m-0 mr-3" style="flex: 0 0 33.333%;">
+      <section class="bc-cta">
+        <figure class="bc-cta__logo m-0 mr-3">
           <img src="/images/logo.png" alt="" />
         </figure>
-        <div class="cta__content" style="flex: 0 0 66.666%;">
-          <h3 class="cta__heading">Painting By Numbers</h3>
-          <p class="cta__text">
+        <div class="bc-cta__content">
+          <h3 class="bc-cta__heading">Painting By Numbers</h3>
+          <p class="bc-cta__text">
             Painting By Numbers is a high street art retailer selling
             high-quality, picturesque prints for their customers in Northampton,
             UK.
@@ -64,7 +61,7 @@
     <h3 class="font-weight-light mb-5">Featured Products</h3>
   </section>
   <section class="row mb-3 justify-content-around">
-    <div class="col-md-4">
+    <div class="col-sm-6 mb-4 mb-lg-0 col-lg-4">
       <div class="card">
         <img
           src="/images/prints/alex_james-photobomb.jpg"
@@ -83,7 +80,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-sm-6 mb-4 mb-lg-0 col-lg-4">
       <div class="card">
         <img
           src="/images/prints/alex_the-scream.jpg"
@@ -102,7 +99,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-sm-6 mb-4 mb-lg-0 col-lg-4">
       <div class="card">
         <img
           src="/images/prints/james_ryan-and-horse.jpg"
