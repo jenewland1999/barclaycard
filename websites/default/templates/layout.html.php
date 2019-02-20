@@ -6,28 +6,33 @@
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
 		<title><?=$title?></title>
-		
+
 		<meta name="description" content="" />
-		
-		<link rel="apple-touch-icon" sizes="180x180" href="/public/images/favicons/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/public/images/favicons/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/public/images/favicons/favicon-16x16.png">
-		<link rel="manifest" href="/public/site.webmanifest">
-		<link rel="mask-icon" href="/public/images/favicons/safari-pinned-tab.svg" color="#ffc80d">
+
+		<link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#ffc80d">
 
 		<meta name="msapplication-TileColor" content="#ffc40d">
 		<meta name="theme-color" content="#ffffff">
 
-		<link rel="stylesheet" href="https://use.typekit.net/pbh0xwd.css">
+		<link rel="stylesheet" href="//use.typekit.net/pbh0xwd.css">
 
 		<!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+    <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+		
+		<link href="//cdnjs.cloudflare.com/ajax/libs/summernote/0.8.9/summernote.css" rel="stylesheet">
+		<link href="//cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.6.1/css/mdb.min.css" rel="stylesheet">
 
     <link rel="stylesheet" href="/styles/lib/normalize.css" />
     <link rel="stylesheet" href="/styles/default.css" />
 	</head>
+
+
 	<body class="page">
 		<header class="page__header">
 
