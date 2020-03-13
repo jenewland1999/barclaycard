@@ -25,4 +25,4 @@ A few acknowledgements I would like to make:
 - **Dr Mark Johnson** - Deputy Head of Computing at The University of Northampton who helped organise the event and allow me to participate as a candidate
 - **James Rowell** - Barclaycard employee who orchastraited the event
 - **Alex Dyer** - Barclaycard employee assigned as our team's mentor 
-- Barclaycard - For the amazing opportunity
+- **Barclaycard** - For the amazing opportunity
