@@ -1,6 +1,6 @@
 # Barclaycard Challenge 2019
 
-Our team's (winning) submission for the Barclaycard Challenge 2019 - An artwork e-commerce website utilising PHP &amp; MySQL implementing Barclaycard's payment technology.
+Our team's winning submission for the Barclaycard Challenge 2019 - An artwork e-commerce website utilising PHP &amp; MySQL implementing Barclaycard's payment technology.
 
 ## What is the Barclaycard Challenge?
 
